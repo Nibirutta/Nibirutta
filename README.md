@@ -59,7 +59,7 @@ Passionate about merging creativity, code, and digital art to craft immersive ex
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucasaugustodev/)
 - 📧 **Email**: lucas.augusto@hotmail.com
 
 ---
