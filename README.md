@@ -7,8 +7,8 @@
 ## 📢 About Me
 
 <div align="center">
-    <p><strong style="font-size: 18px">Software Engineering Student | Freelance Game Developer | 3D Artist & Full-Stack </strong></p>
-    <p style="font-size: 16px">Passionate about merging creativity, code, and digital art to craft immersive experiences.</p>
+    <h3><strong>Software Engineering Student | Freelance Game Developer | 3D Artist & Full-Stack </strong></h3>
+    <p>Passionate about merging creativity, code, and digital art to craft immersive experiences.</p>
     <p></p>
 </div>
 
