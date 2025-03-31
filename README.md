@@ -1,11 +1,23 @@
-# 👋 Hello, I'm Lucas da Silva Augusto
-
-**Software Engineering Student** | **Freelance Game Developer** | **3D Artist & Full-Stack**  
-Passionate about merging creativity, code, and digital art to craft immersive experiences.
+<a href="https://github.com/Nibirutta" style="
+    display: flex;
+    justify-content: space-around;
+    ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hi!+I'm+Lucas+Silva!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</a>
 
 ---
 
-## 🚀 About Me
+## 📢 About Me
+
+<div style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    ">
+    <p><strong style="font-size: 18px">Software Engineering Student | Freelance Game Developer | 3D Artist & Full-Stack </strong></p>
+    <p style="font-size: 16px">Passionate about merging creativity, code, and digital art to craft immersive experiences.</p>
+    <p></p>
+</div>
 
 - 🎓 Pursuing a **Software Engineering** degree, with a focus on building versatile technical foundations for diverse digital projects.  
 - 🕹️ **Freelance Game Developer** creating rapid prototypes and stylized 3D assets—see my [ArtStation](https://www.artstation.com/lucasaugust) for examples.  
@@ -49,6 +61,20 @@ Passionate about merging creativity, code, and digital art to craft immersive ex
 
 ---
 
+<div>
+    <h2>📈 GitHub Statistics</h2>
+    <a href="https://github.com/Nibirutta" 
+    style="
+    display: flex;
+    justify-content: space-around;
+    ">
+        <img height="270cm" src="https://github-readme-stats.vercel.app/api?username=nibirutta&theme=dark"/>
+        <img height="270cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibirutta&layout=donut-vertical&theme=dark"/>
+    </a>
+</div>
+
+---
+
 ## � Featured Projects
 
 - 🖌️ **[ArtStation Portfolio](https://www.artstation.com/lucasaugust)**: Explore my stylized 3D props and game-ready assets.
@@ -59,10 +85,10 @@ Passionate about merging creativity, code, and digital art to craft immersive ex
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucasaugustodev/)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 📧 **Email**: lucas.augusto@hotmail.com
 
 ---
 
-🎮 **"In gaming, every challenge is a level to conquer—creativity is the power-up, and code is the controller."**  
+🎮 **"In gaming, every challenge is a level to conquer — creativity is the power-up, and code is the controller."**  
 *– My mantra for blending art, logic, and play.*
