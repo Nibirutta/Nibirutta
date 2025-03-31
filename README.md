@@ -1,19 +1,12 @@
-<a href="https://github.com/Nibirutta" style="
-    display: flex;
-    justify-content: space-around;
-    ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hi!+I'm+Lucas+Silva!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hi!+I'm+Lucas+Silva!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 📢 About Me
 
-<div style="
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    ">
+<div align="center">
     <p><strong style="font-size: 18px">Software Engineering Student | Freelance Game Developer | 3D Artist & Full-Stack </strong></p>
     <p style="font-size: 16px">Passionate about merging creativity, code, and digital art to craft immersive experiences.</p>
     <p></p>
@@ -63,14 +56,10 @@
 
 <div>
     <h2>📈 GitHub Statistics</h2>
-    <a href="https://github.com/Nibirutta" 
-    style="
-    display: flex;
-    justify-content: space-around;
-    ">
-        <img height="270cm" src="https://github-readme-stats.vercel.app/api?username=nibirutta&theme=dark"/>
-        <img height="270cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibirutta&layout=donut-vertical&theme=dark"/>
-    </a>
+    <div align="center">
+      <img height="270" src="https://github-readme-stats.vercel.app/api?username=nibirutta&theme=dark"/>
+      <img height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibirutta&layout=donut-vertical&theme=dark"/>
+    </div>
 </div>
 
 ---
