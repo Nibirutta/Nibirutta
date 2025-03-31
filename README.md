@@ -57,8 +57,8 @@
 <div>
     <h2>📈 GitHub Statistics</h2>
     <div align="center">
-      <img height="270" src="https://github-readme-stats.vercel.app/api?username=nibirutta&theme=dark"/>
-      <img height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibirutta&layout=donut-vertical&theme=dark"/>
+      <img height="250" src="https://github-readme-stats.vercel.app/api?username=nibirutta&theme=dark"/>
+      <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibirutta&layout=donut-vertical&theme=dark"/>
     </div>
 </div>
 
